@@ -50,10 +50,12 @@ The following are results for value_count:
      * precision 0=1.00, 1=0.85
      * recall 0=0.99, 1=0.91
      
-   ![image](https://user-images.githubusercontent.com/116117065/228037223-8a7ee1e9-248b-400d-ba2a-f8b55fc01d5a.png)
+   ![image](https://user-images.githubusercontent.com/116117065/228047920-e979828f-c9fd-4a77-b2e2-e888e64cfc44.png)
+   
    
    ![image](https://user-images.githubusercontent.com/116117065/228037332-a9b372d0-0210-4656-9864-99da2e598a2c.png)
-
+   
+  
     
 
 * Machine Learning Model 2 (RandomOverSampler):
